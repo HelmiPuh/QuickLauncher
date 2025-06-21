@@ -1,7 +1,8 @@
 # QuickLauncher
 Программа заменит панель Win для тех, кому не нравится стандартная версия.
 
-![image](https://github.com/user-attachments/assets/568857b8-a71c-40ec-a133-a828bce9aa49)
+![image](https://github.com/user-attachments/assets/9aeed5b3-07fe-48d9-858b-9e839664b504)
+
 
 Пока что это её первая версия и вызывается она клавишами Win + Shift+ Z
 Вы можете ознакомиться с ней, но на этом этапе разработки я бы сам ею не пользовался :3
